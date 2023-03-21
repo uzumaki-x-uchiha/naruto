@@ -1,0 +1,30 @@
+body {
+  background-color: #fbe307c9;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #f2a30b;
+  border-color: #f2a30b;
+  height: 10px;
+  border-width: 5px;
+  width: 50%;
+}
+h1 {
+  color: #328ba8;
+}
+h3 {
+  color: #328ba8;
+}
+h4 {
+  color: #328ba8;
+}
+.hor {
+   border-style:none;
+    border-top-style:inset;
+    border-top-color:#f2a30b;
+    border-color:#f2a30b;
+    height:10px;
+    border-width: 5px;
+    width:100%;
+}
